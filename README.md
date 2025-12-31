@@ -1,0 +1,1 @@
+This website provides clear information about drinking water components, criteria for safe and dangerous water, and essential health instructions. The project is designed for educational purposes and public awareness.
